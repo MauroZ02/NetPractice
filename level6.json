@@ -1,1 +1,1 @@
-{"routes":{"Ar1":{"route":"default","gate":"47.208.169.226"},"Rr1":{"route":"default"},"Ir1":{"route":"47.208.169.128/25"}},"ifs":{"A1":{"mask":"/25"},"R1":{"ip":"47.208.169.226"},"R2":{},"S1":{},"Somewhere on the Net":{},"I1":{}}}
+{"routes":{"Ar1":{"route":"0.0.0.0/0","gate":"47.208.169.228"},"Rr1":{"route":"default"},"Ir1":{"route":"47.208.169.227/25"}},"ifs":{"A1":{"mask":"/25"},"R1":{"ip":"47.208.169.228"},"R2":{},"S1":{},"Somewhere on the Net":{},"I1":{}}}
